@@ -1,0 +1,11 @@
+{
+  "applications": [
+    {
+      "id": 1,
+      "personal": { "firstName": "John", "lastName": "Doe", "email": "john@example.com" },
+      "academic": { "course": "Computer Science" },
+      "guardian": { "name": "Jane Doe" },
+      "status": "Pending"
+    }
+  ]
+}
